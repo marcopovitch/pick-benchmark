@@ -23,14 +23,15 @@ import datetime
 import packaging
 
 data_aliases = {
-    "ethz": "ETHZ",
-    "geofon": "GEOFON",
-    "stead": "STEAD",
-    "neic": "NEIC",
-    "instance": "InstanceCountsCombined",
-    "iquique": "Iquique",
-    "lendb": "LenDB",
-    "scedc": "SCEDC",
+    "renass": "RENASS", 
+    #"ethz": "ETHZ",
+    #"geofon": "GEOFON",
+    #"stead": "STEAD",
+    #"neic": "NEIC",
+    #"instance": "InstanceCountsCombined",
+    #"iquique": "Iquique",
+    #"lendb": "LenDB",
+    #"scedc": "SCEDC",
 }
 
 
